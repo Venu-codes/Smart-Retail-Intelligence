@@ -1,5 +1,5 @@
-# Smart-Retail-Intelligence
-Retail Data Analytics Project using Python, SQL and Power BI
+ Smart Retail Intelligence
+
 # Smart Retail Intelligence
 
 A retail data analytics project using Python, MySQL, and Power BI to understand sales performance, customer behaviour, and product trends.
